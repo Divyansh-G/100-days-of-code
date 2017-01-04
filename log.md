@@ -9,7 +9,7 @@
 **Link(s) to work**
 1. [Tribute-Page](http://codepen.io/divyanshg1207/full/aBRdwj/)
 
-### Day 2: Jan3, Tuesday
+### Day 2: Jan 3, Tuesday
 
 **Today's Progress**: Completed the Challenge-Build Tribute Page. Started Working on next challenge-Build Portfolio.
 
@@ -19,4 +19,11 @@
 1. [Tribute-Page](http://codepen.io/divyanshg1207/full/aBRdwj/)
 2. [Portfolio](http://codepen.io/divyanshg1207/full/jyOWvB/)
 
+### Day 3: Jan 4, Wednesday
 
+**Today's Progress**: Implemented a one-time-pad in python3 from scratch. Took about three hours.
+
+**Thought's**:Feeling a sense of accomplishment. Did a real project! If it could go on like this every day, I would become a freakin coding-guru.
+
+**Link(s) to work**:
+1. [One-time-pad](https://github.com/divyanshg1207/one-time-pad/)
