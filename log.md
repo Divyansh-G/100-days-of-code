@@ -27,3 +27,13 @@
 
 **Link(s) to work**:
 1. [One-time-pad](https://github.com/divyanshg1207/one-time-pad/)
+
+### Day 4: Jan 5, Thursday
+
+**Today's Progress**: Worked on FCC Challenge-Build Portfolio.
+
+**Thought's**: Didn't have much time so couldn't do much. This Bootstrap is really tricky.
+
+**Link(s) to work**:
+1. [Portfolio](http://codepen.io/divyanshg1207/full/xgbYqQ/)
+
