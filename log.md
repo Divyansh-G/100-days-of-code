@@ -45,3 +45,12 @@
 
 **Link(s) to work**:
 1. [trends](https://github.com/divyanshg1207/trends/)
+
+## Day 6: Jan 7, Saturday
+
+**Today's Progress**: Worked on Facebook-Hackercup Problems.
+
+**Thought's**: Couldn't solve even one. Competitive programming is tricky business. Will try again tomorrow.
+
+**Link(s) to work**:
+1.[Facebook-hackercup](https://www.facebook.com/hackercup/)
