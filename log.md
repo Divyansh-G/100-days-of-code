@@ -37,3 +37,11 @@
 **Link(s) to work**:
 1. [Portfolio](http://codepen.io/divyanshg1207/full/xgbYqQ/)
 
+## Day 5: Jan 6, Friday
+
+**Today's Progress**: Created a python script to get hot-trends from google trends.
+
+**Thought's**: Python is really easy! This script can be used add a new functionality to wallpaper-changer(another script).
+
+**Link(s) to work**:
+1. [trends](https://github.com/divyanshg1207/trends/)
